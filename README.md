@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shreyas-Patondikar
+- 👀 I’m interested in Full Stack Web Development and Machine Learning
+- 🌱 I’m currently learning web development from Udemy and FreecodeCamp. Also learning machine learning from coursera
+- 💞️ I’m looking to collaborate on Web development and ML projects
+- 😄 Pronouns: He/Him
